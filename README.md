@@ -1,38 +1,38 @@
-# 📸 Capturas de Tela — NetGuardian
+# 📸 Public Screenshots
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Projeto-NetGuardian-blue?style=for-the-badge&logo=flask&logoColor=white" alt="NetGuardian">
-  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Interface-Web%20Flask-orange?style=for-the-badge" alt="Flask">
-</div>
+Bem\-vindo ao meu repositório de screenshots\!
+
+Este espaço foi criado para armazenar e compartilhar capturas de tela de projetos, aplicações e trabalhos desenvolvidos ao longo da minha trajetória. As imagens servem como documentação visual, demonstração de funcionalidades e registro da evolução dos projetos.
+
+## 📂 Conteúdo
+
+- Interfaces de aplicações web e mobile
+- Protótipos e designs
+- Projetos de desenvolvimento de software
+- Painéis, dashboards e relatórios
+- Estudos e experimentos tecnológicos
+
+## 🎯 Objetivo
+
+O objetivo deste repositório é fornecer uma forma rápida e organizada de visualizar projetos e soluções desenvolvidas, facilitando a apresentação de resultados, funcionalidades e experiências de usuário.
+
+## 🚀 Tecnologias Relacionadas
+
+Dependendo do projeto apresentado nas capturas de tela, podem ser utilizadas tecnologias como:
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- Python
+- Git e GitHub
+
+## 📬 Contato
+
+Caso tenha interesse em conhecer mais sobre meus projetos ou colaborar em futuras iniciativas, fique à vontade para entrar em contato através do meu perfil do GitHub.
 
 ---
 
-## 🎯 Sobre o Repositório
-Este espaço é dedicado exclusivamente a armazenar os registros visuais e capturas de tela (*screenshots*) do sistema de monitoramento de rede **NetGuardian**.
+⭐ Obrigada por visitar meu portfólio\!
 
----
-
-## 🖼️ Painel de Controle
-
-Abaixo está a visualização principal do painel web desenvolvido em **Flask**, que acompanha em tempo real o status e as estatísticas da rede:
-
-> *Painel principal do NetGuardian exibindo informações do sistema e monitoramento da rede.*
-
----
-
-## ✅ Informações Exibidas no Sistema
-
-O painel monitora e exibe com precisão os seguintes dados:
-* 💻 **Nome do computador**
-* 🌐 **Endereço IP local**
-* 🗂️ **Sistema operacional**
-* 🔢 **Versão do sistema**
-* 🟢 **Status online**
-* 📊 **Estatísticas de rede**
-* ⚡ **Painel web em Flask**
-
----
-
-## ✍️ Autor
-Desenvolvido por **Maristela Costa**.
